@@ -1,0 +1,7 @@
+project: rust-csv
+target: csv_reader
+
+tests:
+  - file://examples/data/
+cmds:
+  - cmd: /csv_reader
